@@ -1,5 +1,5 @@
 # Money-Manager
-The money manager application is a Tkinter GUI application made in python. It allows the user to keep a track of their earnings and expenses and analyze their earnings and expenses.
+The money manager is a Python Tkinter application. It allows the user to keep a track of their earnings and expenses and analyze their money usage.
 
 ## Software Requirements
 Python 3.9 - https://www.python.org/downloads/
